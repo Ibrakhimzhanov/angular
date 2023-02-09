@@ -1,0 +1,21 @@
+.image {
+  max-width: 300px;
+}
+
+mat-card {
+  background-color: white;
+  color: black;
+  margin-right: 10px;
+}
+
+.button {
+  margin-right: 5px;
+}
+
+.container {
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+}

@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "DF",
+      "price": "12323",
+      "year": "42321",
+      "image": "assets/images/macbook.jpeg",
+      "configure": {
+        "chip": "",
+        "ssd": "",
+        "memory": "",
+        "display": ""
+      }
+    },
+    {
+      "id": 2,
+      "title": "1232132",
+      "price": "266",
+      "year": "2020",
+      "image": "assets/images/macbook.jpeg",
+      "configure": {
+        "chip": "Fatas",
+        "ssd": "",
+        "memory": "16",
+        "display": ""
+      }
+    },
+    {
+      "id": 3,
+      "title": "Test3",
+      "price": "1231",
+      "year": "12213",
+      "image": "assets/images/macbook.jpeg",
+      "configure": {
+        "chip": "Interl",
+        "ssd": "Samsung 980PRO",
+        "memory": "16",
+        "display": "Retina"
+      }
+    }
+  ],
+  "basket": []
+}
